@@ -2,7 +2,7 @@
 A simple service to help users schedule appointments.
 
 ## How to run
-CD to scheduler folder: 
+cd to scheduler folder: 
 run `./gradlew bootRun`
 
 If you receive permission denied, please try `chmod +x gradlew`
